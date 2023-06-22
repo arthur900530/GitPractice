@@ -3,4 +3,5 @@ class Book():
         self.title = ''
         self.authors = ''
         self.date = ''
+        self.ISBN = ''
     
