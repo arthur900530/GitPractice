@@ -1,7 +1,7 @@
 def main():
     print('Hello World')
     print('Newly Added Line')
-    print('From cmd')
+    print('From cmd - 2')
     print('From VS Code')
 
 
